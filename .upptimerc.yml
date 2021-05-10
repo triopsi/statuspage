@@ -11,16 +11,16 @@ sites:
     url: 'https://webmail.triopsi-hosting.com'
   - name: Host-01
     url: 'https://host1.phoenix.com.de:8006'
-    __dangerous__disable_verify_peer: true
+    __dangerous__insecure: true
   - name: Host-02
     url: 'https://host2.phoenix.com.de:8006'
-    __dangerous__disable_verify_peer: true
+    __dangerous__insecure: true
   - name: DEV-OPS
-    url: 'https://jenkins.cloudfoxi.de'
+    url: 'https://jenkins.cloudfoxi.de/login?from=%2F'
   - name: Cloudfoxi
     url: 'https://cloudfoxi.de'
 status-website:
-  theme: dark
+  theme: ocean
   baseUrl: /statuspage
   logoUrl: >-
     https://raw.githubusercontent.com/triopsi/statuspage/master/assets/triopsi-logo.svg

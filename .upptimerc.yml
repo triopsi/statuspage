@@ -3,13 +3,30 @@ repo: statuspage
 sites:
   - name: Triopsi Hosting Webseite
     url: 'https://triopsi:$WEBSITE_KEY@triopsi-hosting.com'
+  - name: WEB01
+    url: 'https://admin.triopsi-hosting.com'
+  - name: Kundeninterface
+    url: 'https://cp.triopsi-hosting.com'
+  - name: Webmail-01
+    url: 'https://webmail.triopsi-hosting.com'
+  - name: Host-01
+    url: 'https://host1.phoenix.com.de:8006'
+    __dangerous__disable_verify_peer: true
+  - name: Host-02
+    url: 'https://host2.phoenix.com.de:8006'
+    __dangerous__disable_verify_peer: true
+  - name: DEV-OPS
+    url: 'https://jenkins.cloudfoxi.de'
+  - name: Cloudfoxi
+    url: 'https://cloudfoxi.de'
 status-website:
+  theme: dark
   baseUrl: /statuspage
   logoUrl: >-
     https://raw.githubusercontent.com/triopsi/statuspage/master/assets/triopsi-logo.svg
   name: Triopsi-Hosting Statusseite
   introTitle: >-
-    **System-Überwachung** Hier werden alle SUB Systeme von Triopsi Hosting
+    **System-Überwachung** Hier werden alle Sub Systeme von Triopsi Hosting
     überwacht.
   introMessage: Nicht alle Systeme werden hier veröffentlicht.
   navbar:

@@ -20,6 +20,7 @@ sites:
   - name: Cloudfoxi
     url: 'https://cloudfoxi.de'
 status-website:
+  icon: https://raw.githubusercontent.com/triopsi/statuspage/master/assets/triopsi-logo-light.svg
   theme: ocean
   cname: status.triopsi-hosting.com # Custom domain CNAME
   #baseUrl: /statuspage
@@ -27,19 +28,21 @@ status-website:
     https://raw.githubusercontent.com/triopsi/statuspage/master/assets/triopsi-logo-light.svg
   name: Triopsi-Hosting Statusseite
   introTitle: >-
-    **System-Überwachung** Hier werden alle Sub Systeme von Triopsi Hosting
+    **System-Überwachung**
+  introMessage: Hier werden alle Sub Systeme von Triopsi Hosting
     überwacht.
-  introMessage: Nicht alle Systeme werden hier veröffentlicht.
   navbar:
     - title: Status
       href: /
     - title: Triopsi-Hosting
       href: 'https://triopsi-hosting.com'
+assignees:
+  - triopsi
 i18n:
   activeIncidents: Aktive Vorfälle
   allSystemsOperational: Alle Systeme sind betriebsbereit
   incidentReport: 'Vorfall #$NUMBER report →'
-  activeIncidentSummary: Geöffnet am $DATE mit $POSTS posts
+  activeIncidentSummary: Geöffnet am $DATE mit $POSTS beiträgen
   incidentTitle: Vorfall $NUMBER Details
   incidentDetails: Vorfall Details
   incidentFixed: Fixed
@@ -47,11 +50,11 @@ i18n:
   incidentOpenedAt: Geöffnet am
   incidentClosedAt: Geschlossen am
   incidentSubscribe: Abonnieren Sie für Updates
-  incidentViewOnGitHub: View on GitHub
-  incidentCommentSummary: Posted at $DATE by $AUTHOR
+  incidentViewOnGitHub: Auf GitHub anschauen
+  incidentCommentSummary: Veröffentlicht am $DATE von $AUTHOR
   incidentBack: ← Zurück zu allen Vorfällen
   pastIncidents: Frühere Vorfälle
-  pastIncidentsResolved: In $MINUTES Minuten mit $POSTS Posts gelöst
+  pastIncidentsResolved: In $MINUTES Minuten mit $POSTS beiträgen gelöst
   liveStatus: Live Status
   overallUptime: 'Gesamtverfügbarkeit: $UPTIME'
   overallUptimeTitle: Gesamtverfügbarkeit
@@ -68,7 +71,8 @@ i18n:
   footer: >-
     Diese Seite wurde automatisch erstellt. Powered by
     [Upptime](https://upptime.js.org) |
-    [Impressum](https://triopsi-hosting.com/impressum/)
+    [Impressum](https://triopsi-hosting.com/impressum/) |
+    [Support](mailto:support@triopsi.com)
   rateLimitExceededTitle: Rate limit exceedeed
   rateLimitExceededIntro: >-
     You have exceeded the number of requests you can do in an hour, so you'll

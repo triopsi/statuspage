@@ -20,6 +20,60 @@ status-website:
       href: /
     - title: Triopsi-Hosting
       href: https://triopsi-hosting.com
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+    i18n:
+        activeIncidents: Aktive Vorfälle
+        allSystemsOperational: Alle Systeme sind betriebsbereit
+        incidentReport: "Vorfall #$NUMBER report →"
+        activeIncidentSummary: Geöffnet am $DATE mit $POSTS posts
+        incidentTitle: Vorfall $NUMBER Details
+        incidentDetails: Vorfall Details
+        incidentFixed: Fixed
+        incidentOngoing: Laufend
+        incidentOpenedAt: Geöffnet am
+        incidentClosedAt: Geschlossen am
+        incidentSubscribe: Abonnieren Sie für Updates
+        incidentViewOnGitHub: View on GitHub
+        incidentCommentSummary: Posted at $DATE by $AUTHOR
+        incidentBack: ← Zurück zu allen Vorfällen
+        pastIncidents: Frühere Vorfälle
+        pastIncidentsResolved: In $MINUTES Minuten mit $POSTS Posts gelöst
+        liveStatus: Live Status
+        overallUptime: "Gesamtverfügbarkeit: $UPTIME"
+        overallUptimeTitle: Gesamtverfügbarkeit
+        averageResponseTime: "Durchschnittliche Reaktionszeit: $TIMEms"
+        averageResponseTimeTitle: Durchschnittliche Antwort
+        sevelDayResponseTime: 7-tages Reaktionszeit
+        responseTimeMs: Reaktionszeit (ms)
+        up: Up
+        down: Down
+        degraded: Verschlechtert
+        ms: ms
+        loading: Laden
+        navGitHub: GitHub
+        footer: Diese Seite wurde automatisch erstellt. Powered by [Upptime](https://upptime.js.org) | [Impressum](https://triopsi-hosting.com/impressum/)
+        rateLimitExceededTitle: Rate limit exceedeed
+        rateLimitExceededIntro: You have exceeded the number of requests you can do in an hour, so you'll have to wait before accessing this website again. Alternately, you can add a GitHub Personal Access Token to continue to use this website.
+        rateLimitExceededWhatDoesErrorMean: Was bedeutet dieser Fehler?
+        rateLimitExceededErrorMeaning: This website uses the GitHub API to access real-time data about our websites' status. By default, GitHub allows each IP address 60 requests per hour, which you have consumed.
+        rateLimitExceededErrorHowCanFix: How can I fix it?
+        rateLimitExceededErrorFix: You can wait for another hour and your IP address' limit will be restored. Alternately, you can add your GitHub Personal Access Token, which gives you an additional 5,000 requests per hour.
+        rateLimitExceededGeneratePAT: Learn how to generate a Personal Access Token
+        rateLimitExceededHasSet: You have a personal access token set.
+        rateLimitExceededRemoveToken: Remove token
+        rateLimitExceededGitHubPAT: GitHub Personal Access Token
+        rateLimitExceededCopyPastePAT: Copy and paste your token
+        rateLimitExceededSaveToken: Save token
+        errorTitle: An error occurred
+        errorIntro: An error occurred in trying to get the latest status details.
+        errorText: You can try again in a few moments.
+        errorHome: Gehen Sie zur Homepage
+        pastScheduledMaintenance: Vergangene geplante Wartung
+        scheduledMaintenance: Geplante Wartung
+        scheduledMaintenanceSummaryStarted: Started at $DATE for $DURATION minutes
+        scheduledMaintenanceSummaryStarts: Starts at $DATE for $DURATION minutes
+        startedAt: Started at
+        startsAt: Starts at
+        duration: Duration
+        durationMin: $DURATION minutes
+        incidentCompleted: Abgeschlossen
+        incidentScheduled: Geplant

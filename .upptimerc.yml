@@ -9,6 +9,8 @@ sites:
     url: 'https://cp.triopsi-hosting.com'
   - name: Webmail-01
     url: 'https://webmail.triopsi-hosting.com'
+  - name: Support-System
+    url: 'https://support.triopsi-hosting.com'
   - name: Host-01
     url: 'https://host1.phoenix.com.de:8006'
     __dangerous__insecure: true

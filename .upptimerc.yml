@@ -21,8 +21,8 @@ sites:
     url: 'https://cloudfoxi.de'
 status-website:
   theme: ocean
-  cname: status.triopsi-hosting.com # Custom domain CNAME
-  #baseUrl: /statuspage
+  #cname: status.triopsi-hosting.com # Custom domain CNAME
+  baseUrl: /statuspage
   logoUrl: >-
     https://raw.githubusercontent.com/triopsi/statuspage/master/assets/triopsi-logo.svg
   name: Triopsi-Hosting Statusseite

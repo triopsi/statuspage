@@ -96,12 +96,12 @@ i18n:
   errorHome: Gehen Sie zur Homepage
   pastScheduledMaintenance: Vergangene geplante Wartung
   scheduledMaintenance: Geplante Wartung
-  scheduledMaintenanceSummaryStarted: Started at $DATE for $DURATION minutes
-  scheduledMaintenanceSummaryStarts: Starts at $DATE for $DURATION minutes
-  startedAt: Started at
-  startsAt: Starts at
-  duration: Duration
-  durationMin: $DURATION minutes
+  scheduledMaintenanceSummaryStarted: Gestartet am $DATE für $DURATION minuten
+  scheduledMaintenanceSummaryStarts: Startet am $DATE für $DURATION minuten
+  startedAt: Gestartet am
+  startsAt: Startet am
+  duration: Dauer
+  durationMin: $DURATION minuten
   incidentCompleted: Abgeschlossen
   incidentScheduled: Geplant
 

@@ -24,7 +24,7 @@ status-website:
   #cname: status.triopsi-hosting.com # Custom domain CNAME
   baseUrl: /statuspage
   logoUrl: >-
-    https://raw.githubusercontent.com/triopsi/statuspage/master/assets/triopsi-logo.svg
+    https://raw.githubusercontent.com/triopsi/statuspage/master/assets/triopsi-logo-light.svg
   name: Triopsi-Hosting Statusseite
   introTitle: >-
     **System-Überwachung** Hier werden alle Sub Systeme von Triopsi Hosting

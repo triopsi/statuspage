@@ -1,13 +1,12 @@
 ---
 name: Wartung planen
-about: Create a report to help us improve
+about: Erstelle ein Wartungsfenster
 title: 'Wartung - '
 labels: 'maintenance'
 assignees: 'triopsi'
-
 ---
 <!--
-start: 2021-02-24T13:00:00.220Z
-end: 2021-02-24T14:00:00.220Z
-expectedDown: google, hacker-news
+start: 2021-05-10T13:00:00.220Z
+end: 2021-05-10T14:00:00.220Z
+expectedDown: cloudfoxi, dev-ops, host-01, host-02, kundeninterface, triopsi-hosting-webseite, web-01, webmail-01
 -->

@@ -4,9 +4,7 @@ repo: statuspage # The name of this repository
 
 sites:
   - name: Triopsi Hosting Webseite
-    url: https://www.triopsi-hosting.com
-    headers:
-    - "Authorization: Basic triopsi:$WEBSITE_KEY"
+    url: https://triopsi:$WEBSITE_KEY@triopsi-hosting.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

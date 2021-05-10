@@ -77,19 +77,17 @@
     "icon": "https://favicons.githubusercontent.com/host1.phoenix.com.de",
     "slug": "host-01",
     "status": "up",
-    "uptime": "3.31%",
-    "uptimeDay": "3.31%",
-    "uptimeWeek": "3.31%",
-    "uptimeMonth": "3.31%",
-    "uptimeYear": "3.31%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 756,
     "timeDay": 756,
     "timeWeek": 756,
     "timeMonth": 756,
     "timeYear": 756,
-    "dailyMinutesDown": {
-      "2021-05-10": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Host-02",
@@ -97,19 +95,17 @@
     "icon": "https://favicons.githubusercontent.com/host2.phoenix.com.de",
     "slug": "host-02",
     "status": "up",
-    "uptime": "2.90%",
-    "uptimeDay": "2.90%",
-    "uptimeWeek": "2.90%",
-    "uptimeMonth": "2.90%",
-    "uptimeYear": "2.90%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 638,
     "timeDay": 638,
     "timeWeek": 638,
     "timeMonth": 638,
     "timeYear": 638,
-    "dailyMinutesDown": {
-      "2021-05-10": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "DEV-OPS",
@@ -117,19 +113,17 @@
     "icon": "https://favicons.githubusercontent.com/jenkins.cloudfoxi.de",
     "slug": "dev-ops",
     "status": "up",
-    "uptime": "2.20%",
-    "uptimeDay": "2.20%",
-    "uptimeWeek": "2.20%",
-    "uptimeMonth": "2.20%",
-    "uptimeYear": "2.20%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 890,
     "timeDay": 890,
     "timeWeek": 890,
     "timeMonth": 890,
     "timeYear": 890,
-    "dailyMinutesDown": {
-      "2021-05-10": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Cloudfoxi",

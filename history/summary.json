@@ -72,6 +72,24 @@
     "dailyMinutesDown": {}
   },
   {
+    "name": "Support-System",
+    "url": "https://support.triopsi-hosting.com",
+    "icon": "https://favicons.githubusercontent.com/support.triopsi-hosting.com",
+    "slug": "support-system",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 519,
+    "timeDay": 519,
+    "timeWeek": 519,
+    "timeMonth": 519,
+    "timeYear": 519,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Host-01",
     "url": "https://host1.phoenix.com.de:8006",
     "icon": "https://favicons.githubusercontent.com/host1.phoenix.com.de",

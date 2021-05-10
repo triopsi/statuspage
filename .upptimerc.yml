@@ -20,7 +20,6 @@ sites:
   - name: Cloudfoxi
     url: 'https://cloudfoxi.de'
 status-website:
-  icon: https://raw.githubusercontent.com/triopsi/statuspage/master/assets/triopsi-logo-light.svg
   theme: ocean
   cname: status.triopsi-hosting.com # Custom domain CNAME
   #baseUrl: /statuspage

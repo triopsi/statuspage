@@ -5,6 +5,8 @@ sites:
     url: 'https://triopsi:$WEBSITE_KEY@triopsi-hosting.com'
   - name: WEB01
     url: 'https://admin.triopsi-hosting.com'
+  - name: WEB02
+    url: 'https://web02.triopsi-hosting.com:8443'
   - name: Kundeninterface
     url: 'https://cp.triopsi-hosting.com'
   - name: Webmail-01
@@ -16,6 +18,9 @@ sites:
     __dangerous__insecure: true
   - name: Host-02
     url: 'https://host2.phoenix.com.de:8006'
+    __dangerous__insecure: true
+  - name: Host-03
+    url: 'https://host3.phoenix.com.de:8006'
     __dangerous__insecure: true
   - name: DEV-OPS
     url: 'https://jenkins.cloudfoxi.de/login?from=%2F'

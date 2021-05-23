@@ -95,18 +95,19 @@
     "icon": "https://favicons.githubusercontent.com/support.triopsi-hosting.com",
     "slug": "support-system",
     "status": "down",
-    "uptime": "99.57%",
-    "uptimeDay": "94.75%",
-    "uptimeWeek": "99.25%",
-    "uptimeMonth": "99.57%",
-    "uptimeYear": "99.57%",
+    "uptime": "99.38%",
+    "uptimeDay": "92.38%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "99.38%",
+    "uptimeYear": "99.38%",
     "time": 661,
     "timeDay": 782,
     "timeWeek": 650,
     "timeMonth": 661,
     "timeYear": 661,
     "dailyMinutesDown": {
-      "2021-05-22": 75
+      "2021-05-23": 33,
+      "2021-05-22": 76
     }
   },
   {
@@ -169,18 +170,19 @@
     "icon": "https://favicons.githubusercontent.com/jenkins.cloudfoxi.de",
     "slug": "dev-ops",
     "status": "down",
-    "uptime": "99.29%",
-    "uptimeDay": "94.82%",
-    "uptimeWeek": "99.26%",
-    "uptimeMonth": "99.29%",
-    "uptimeYear": "99.29%",
+    "uptime": "99.10%",
+    "uptimeDay": "92.45%",
+    "uptimeWeek": "98.92%",
+    "uptimeMonth": "99.10%",
+    "uptimeYear": "99.10%",
     "time": 1259,
     "timeDay": 1058,
     "timeWeek": 880,
     "timeMonth": 1259,
     "timeYear": 1259,
     "dailyMinutesDown": {
-      "2021-05-22": 75,
+      "2021-05-23": 33,
+      "2021-05-22": 76,
       "2021-05-12": 27,
       "2021-05-11": 29
     }
@@ -191,18 +193,19 @@
     "icon": "https://favicons.githubusercontent.com/cloudfoxi.de",
     "slug": "cloudfoxi",
     "status": "down",
-    "uptime": "99.60%",
-    "uptimeDay": "94.89%",
-    "uptimeWeek": "99.27%",
-    "uptimeMonth": "99.60%",
-    "uptimeYear": "99.60%",
+    "uptime": "99.41%",
+    "uptimeDay": "92.52%",
+    "uptimeWeek": "98.93%",
+    "uptimeMonth": "99.41%",
+    "uptimeYear": "99.41%",
     "time": 1326,
     "timeDay": 1621,
     "timeWeek": 1276,
     "timeMonth": 1326,
     "timeYear": 1326,
     "dailyMinutesDown": {
-      "2021-05-22": 73
+      "2021-05-23": 33,
+      "2021-05-22": 74
     }
   }
 ]

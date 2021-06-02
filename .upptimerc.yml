@@ -11,8 +11,6 @@ sites:
     url: 'https://cp.triopsi-hosting.com'
   - name: Webmail-01
     url: 'https://webmail.triopsi-hosting.com'
-  - name: Support-System
-    url: 'https://support.triopsi-hosting.com'
   - name: Host-01
     url: 'https://host1.phoenix.com.de:8006'
     __dangerous__insecure: true
@@ -22,10 +20,6 @@ sites:
   - name: Host-03
     url: 'https://host3.phoenix.com.de:8006'
     __dangerous__insecure: true
-  - name: DEV-OPS
-    url: 'https://jenkins.cloudfoxi.de/login?from=%2F'
-  - name: Cloudfoxi
-    url: 'https://cloudfoxi.de'
 status-website:
   theme: ocean
   cname: status.triopsi-hosting.com # Custom domain CNAME

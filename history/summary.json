@@ -59,11 +59,11 @@
     "icon": "https://favicons.githubusercontent.com/cp.triopsi-hosting.com",
     "slug": "kundeninterface",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
     "time": 1228,
     "timeDay": 981,
     "timeWeek": 1056,
@@ -96,9 +96,9 @@
     "url": "https://host1.phoenix.com.de:8006",
     "icon": "https://favicons.githubusercontent.com/host1.phoenix.com.de",
     "slug": "host-01",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -107,7 +107,9 @@
     "timeWeek": 1015,
     "timeMonth": 983,
     "timeYear": 983,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-05": 0
+    }
   },
   {
     "name": "Host-02",

@@ -42,19 +42,19 @@
     "url": "https://web02.triopsi-hosting.com:8443",
     "icon": "https://favicons.githubusercontent.com/web02.triopsi-hosting.com",
     "slug": "web-02",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 956,
-    "timeDay": 795,
-    "timeWeek": 946,
-    "timeMonth": 950,
-    "timeYear": 956,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 952,
+    "timeDay": 764,
+    "timeWeek": 920,
+    "timeMonth": 943,
+    "timeYear": 952,
     "dailyMinutesDown": {
-      "2021-07-08": 1
+      "2021-07-08": 8
     }
   },
   {
@@ -138,19 +138,19 @@
     "url": "https://host3.phoenix.com.de:8006",
     "icon": "https://favicons.githubusercontent.com/host3.phoenix.com.de",
     "slug": "host-03",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 601,
-    "timeDay": 436,
-    "timeWeek": 591,
-    "timeMonth": 578,
-    "timeYear": 601,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 605,
+    "timeDay": 633,
+    "timeWeek": 621,
+    "timeMonth": 586,
+    "timeYear": 605,
     "dailyMinutesDown": {
-      "2021-07-08": 0
+      "2021-07-08": 8
     }
   }
 ]

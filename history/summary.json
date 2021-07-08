@@ -42,10 +42,10 @@
     "url": "https://web02.triopsi-hosting.com:8443",
     "icon": "https://favicons.githubusercontent.com/web02.triopsi-hosting.com",
     "slug": "web-02",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 956,
@@ -53,7 +53,9 @@
     "timeWeek": 946,
     "timeMonth": 950,
     "timeYear": 956,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-08": 1
+    }
   },
   {
     "name": "Kundeninterface",
@@ -136,9 +138,9 @@
     "url": "https://host3.phoenix.com.de:8006",
     "icon": "https://favicons.githubusercontent.com/host3.phoenix.com.de",
     "slug": "host-03",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -147,6 +149,8 @@
     "timeWeek": 591,
     "timeMonth": 578,
     "timeYear": 601,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-08": 0
+    }
   }
 ]

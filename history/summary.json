@@ -4,10 +4,10 @@
     "url": "https://triopsi:$WEBSITE_KEY@triopsi-hosting.com",
     "icon": "https://favicons.githubusercontent.com/triopsi-hosting.com",
     "slug": "triopsi-hosting-webseite",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
     "time": 2965,
@@ -16,6 +16,7 @@
     "timeMonth": 3619,
     "timeYear": 2965,
     "dailyMinutesDown": {
+      "2021-07-10": 1,
       "2021-06-10": 23
     }
   },
@@ -98,9 +99,9 @@
     "url": "https://host1.phoenix.com.de:8006",
     "icon": "https://favicons.githubusercontent.com/host1.phoenix.com.de",
     "slug": "host-01",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "98.14%",
+    "uptimeDay": "98.78%",
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.94%",
@@ -110,6 +111,7 @@
     "timeMonth": 2599,
     "timeYear": 1752,
     "dailyMinutesDown": {
+      "2021-07-10": 0,
       "2021-07-09": 27,
       "2021-06-28": 29
     }

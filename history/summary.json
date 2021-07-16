@@ -13,7 +13,7 @@
     "time": 3090,
     "timeDay": 3085,
     "timeWeek": 4639,
-    "timeMonth": 3847,
+    "timeMonth": 3987,
     "timeYear": 3090,
     "dailyMinutesDown": {
       "2021-07-10": 20,
@@ -43,19 +43,19 @@
     "url": "https://web02.triopsi-hosting.com:8443",
     "icon": "https://favicons.githubusercontent.com/web02.triopsi-hosting.com",
     "slug": "web-02",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 965,
-    "timeDay": 1138,
-    "timeWeek": 1053,
-    "timeMonth": 976,
-    "timeYear": 965,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "92.99%",
+    "uptimeWeek": "99.00%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.89%",
+    "time": 964,
+    "timeDay": 995,
+    "timeWeek": 1028,
+    "timeMonth": 972,
+    "timeYear": 964,
     "dailyMinutesDown": {
-      "2021-07-16": 0
+      "2021-07-16": 101
     }
   },
   {

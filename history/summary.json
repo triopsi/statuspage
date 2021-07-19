@@ -58,18 +58,20 @@
     "url": "https://cp.triopsi-hosting.com",
     "icon": "https://favicons.githubusercontent.com/cp.triopsi-hosting.com",
     "slug": "kundeninterface",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1160,
     "timeDay": 1265,
     "timeWeek": 1208,
     "timeMonth": 1134,
     "timeYear": 1160,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-19": 5
+    }
   },
   {
     "name": "Webmail-01",
@@ -112,10 +114,10 @@
     "url": "https://host2.phoenix.com.de:8006",
     "icon": "https://favicons.githubusercontent.com/host2.phoenix.com.de",
     "slug": "host-02",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 632,
@@ -123,7 +125,9 @@
     "timeWeek": 650,
     "timeMonth": 625,
     "timeYear": 632,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-19": 2
+    }
   },
   {
     "name": "Host-03",

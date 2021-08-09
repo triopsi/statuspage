@@ -4,19 +4,19 @@
     "url": "https://triopsi:$WEBSITE_KEY@triopsi-hosting.com",
     "icon": "https://favicons.githubusercontent.com/triopsi-hosting.com",
     "slug": "triopsi-hosting-webseite",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.86%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
-    "time": 3008,
-    "timeDay": 1845,
-    "timeWeek": 2352,
-    "timeMonth": 3169,
-    "timeYear": 3008,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "97.47%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.97%",
+    "time": 2995,
+    "timeDay": 1785,
+    "timeWeek": 2279,
+    "timeMonth": 3125,
+    "timeYear": 2995,
     "dailyMinutesDown": {
-      "2021-08-09": 16
+      "2021-08-09": 36
     }
   },
   {

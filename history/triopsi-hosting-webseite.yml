@@ -1,7 +1,7 @@
 url: https://triopsi:$WEBSITE_KEY@triopsi-hosting.com
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2021-08-12T18:34:58.743Z
+status: up
+code: 200
+responseTime: 2396
+lastUpdated: 2021-08-12T19:17:39.875Z
 startTime: Mon May 10 2021 06:26:10 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

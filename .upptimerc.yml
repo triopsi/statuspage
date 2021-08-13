@@ -29,6 +29,7 @@ sites:
     __dangerous__insecure: true
 status-website:
   theme: ocean
+  favicon: https://assets.triopsi-hosting.com/images/logo/favicon-32x32.png
   cname: status.triopsi-hosting.com # Custom domain CNAME
   #baseUrl: /statuspage
   logoUrl: >-

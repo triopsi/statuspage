@@ -4,18 +4,20 @@
     "url": "https://triopsi:$WEBSITE_KEY@triopsi-hosting.com",
     "icon": "https://favicons.githubusercontent.com/triopsi-hosting.com",
     "slug": "triopsi-hosting-webseite",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2977,
     "timeDay": 2909,
-    "timeWeek": 2547,
-    "timeMonth": 2750,
+    "timeWeek": 2919,
+    "timeMonth": 2760,
     "timeYear": 2977,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-16": 1
+    }
   },
   {
     "name": "WEB01",
@@ -31,7 +33,7 @@
     "time": 1123,
     "timeDay": 1088,
     "timeWeek": 1087,
-    "timeMonth": 1176,
+    "timeMonth": 1175,
     "timeYear": 1123,
     "dailyMinutesDown": {}
   },
@@ -49,7 +51,7 @@
     "time": 1033,
     "timeDay": 1329,
     "timeWeek": 1156,
-    "timeMonth": 1161,
+    "timeMonth": 1170,
     "timeYear": 1033,
     "dailyMinutesDown": {}
   },
@@ -85,7 +87,7 @@
     "time": 891,
     "timeDay": 903,
     "timeWeek": 852,
-    "timeMonth": 878,
+    "timeMonth": 843,
     "timeYear": 891,
     "dailyMinutesDown": {}
   },
@@ -103,7 +105,7 @@
     "time": 1811,
     "timeDay": 745,
     "timeWeek": 784,
-    "timeMonth": 1286,
+    "timeMonth": 724,
     "timeYear": 1811,
     "dailyMinutesDown": {}
   },

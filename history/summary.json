@@ -58,19 +58,19 @@
     "url": "https://cp.triopsi-hosting.com",
     "icon": "https://assets.triopsi-hosting.com/images/logo/favicon-96x96.ico",
     "slug": "kundeninterface",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 1056,
-    "timeDay": 726,
-    "timeWeek": 997,
-    "timeMonth": 934,
+    "timeDay": 946,
+    "timeWeek": 1018,
+    "timeMonth": 942,
     "timeYear": 1056,
     "dailyMinutesDown": {
-      "2021-10-14": 0
+      "2021-10-14": 18
     }
   },
   {

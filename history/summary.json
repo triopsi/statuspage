@@ -166,19 +166,19 @@
     "url": "https://host5.phoenix.com.de:8006",
     "icon": "https://favicons.githubusercontent.com/host5.phoenix.com.de",
     "slug": "host-05",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "97.88%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.98%",
-    "time": 611,
-    "timeDay": 507,
-    "timeWeek": 576,
-    "timeMonth": 583,
-    "timeYear": 611,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "95.72%",
+    "uptimeWeek": "99.39%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.97%",
+    "time": 610,
+    "timeDay": 508,
+    "timeWeek": 569,
+    "timeMonth": 580,
+    "timeYear": 610,
     "dailyMinutesDown": {
-      "2021-12-18": 30
+      "2021-12-18": 61
     }
   }
 ]

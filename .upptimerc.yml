@@ -2,7 +2,7 @@ owner: triopsi
 repo: statuspage
 sites:
   - name: Triopsi Hosting Webseite
-    url: 'https://triopsi:$WEBSITE_KEY@triopsi-hosting.com'
+    url: 'https://triopsi-hosting.com'
   - name: WEB01
     url: 'https://admin.triopsi-hosting.com'
   - name: WEB02
@@ -12,6 +12,8 @@ sites:
     icon: https://assets.triopsi-hosting.com/images/logo/favicon-96x96.ico
   - name: Webmail-01
     url: 'https://webmail.triopsi-hosting.com'
+  # - name: CLOUD01
+  #   url: 'https://cloud01.triopsi-hosting.com'
   - name: Host-01
     url: 'https://host1.phoenix.com.de:8006'
     __dangerous__insecure: true
@@ -22,10 +24,10 @@ sites:
     url: 'https://host3.phoenix.com.de:8006'
     __dangerous__insecure: true
   - name: Host-04
-    url: 'https://host4.phoenix.com.de:8006'
+    url: 'https://host4.triopsi-hosting.com:8006'
     __dangerous__insecure: true
   - name: Host-05
-    url: 'https://host5.phoenix.com.de:8006'
+    url: 'https://host5.triopsi-hosting.com:8006'
     __dangerous__insecure: true
 status-website:
   theme: ocean

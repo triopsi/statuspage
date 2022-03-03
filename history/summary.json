@@ -24,16 +24,18 @@
     "slug": "web-01",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1414,
-    "timeDay": 1231,
-    "timeWeek": 1474,
-    "timeMonth": 1462,
+    "timeDay": 1240,
+    "timeWeek": 1446,
+    "timeMonth": 1455,
     "timeYear": 1414,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-03": 6
+    }
   },
   {
     "name": "WEB02",
@@ -78,16 +80,18 @@
     "slug": "webmail-01",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 900,
-    "timeDay": 1244,
-    "timeWeek": 1075,
-    "timeMonth": 898,
+    "timeDay": 1086,
+    "timeWeek": 1057,
+    "timeMonth": 899,
     "timeYear": 900,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-03": 5
+    }
   },
   {
     "name": "Host-01",
@@ -150,16 +154,18 @@
     "slug": "host-04",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 625,
-    "timeDay": 658,
-    "timeWeek": 614,
+    "timeDay": 621,
+    "timeWeek": 611,
     "timeMonth": 588,
     "timeYear": 625,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-03": 2
+    }
   },
   {
     "name": "Host-05",

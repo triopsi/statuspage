@@ -22,19 +22,19 @@
     "url": "https://admin.triopsi-hosting.com",
     "icon": "https://favicons.githubusercontent.com/admin.triopsi-hosting.com",
     "slug": "web-01",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.58%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 1419,
-    "timeDay": 1583,
-    "timeWeek": 1388,
-    "timeMonth": 1483,
-    "timeYear": 1419,
+    "time": 1418,
+    "timeDay": 1268,
+    "timeWeek": 1334,
+    "timeMonth": 1465,
+    "timeYear": 1418,
     "dailyMinutesDown": {
-      "2022-03-24": 1
+      "2022-03-24": 20
     }
   },
   {
@@ -78,19 +78,19 @@
     "url": "https://webmail.triopsi-hosting.com",
     "icon": "https://favicons.githubusercontent.com/webmail.triopsi-hosting.com",
     "slug": "webmail-01",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "93.78%",
-    "uptimeWeek": "99.11%",
-    "uptimeMonth": "99.80%",
+    "uptimeDay": "92.40%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "99.75%",
     "uptimeYear": "99.98%",
-    "time": 898,
-    "timeDay": 955,
-    "timeWeek": 901,
-    "timeMonth": 914,
-    "timeYear": 898,
+    "time": 897,
+    "timeDay": 870,
+    "timeWeek": 886,
+    "timeMonth": 910,
+    "timeYear": 897,
     "dailyMinutesDown": {
-      "2022-03-24": 90
+      "2022-03-24": 109
     }
   },
   {

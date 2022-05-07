@@ -116,9 +116,9 @@
     "url": "https://host2.phoenix.com.de:8006",
     "icon": "https://favicons.githubusercontent.com/host2.phoenix.com.de",
     "slug": "host-02",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -127,7 +127,9 @@
     "timeWeek": 558,
     "timeMonth": 607,
     "timeYear": 626,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-07": 0
+    }
   },
   {
     "name": "Host-03",

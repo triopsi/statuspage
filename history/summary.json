@@ -4,9 +4,9 @@
     "url": "https://triopsi-hosting.com",
     "icon": "https://favicons.githubusercontent.com/triopsi-hosting.com",
     "slug": "triopsi-hosting-webseite",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1566,
     "timeMonth": 1447,
     "timeYear": 2013,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-14": 0
+    }
   },
   {
     "name": "WEB01",

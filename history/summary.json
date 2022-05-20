@@ -62,9 +62,9 @@
     "url": "https://cp.triopsi-hosting.com",
     "icon": "https://assets.triopsi-hosting.com/images/logo/favicon-96x96.ico",
     "slug": "kundeninterface",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -73,7 +73,9 @@
     "timeWeek": 994,
     "timeMonth": 965,
     "timeYear": 953,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-20": 0
+    }
   },
   {
     "name": "Webmail-01",

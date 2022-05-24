@@ -82,11 +82,11 @@
     "url": "https://webmail.triopsi-hosting.com",
     "icon": "https://favicons.githubusercontent.com/webmail.triopsi-hosting.com",
     "slug": "webmail-01",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "81.33%",
-    "uptimeWeek": "97.33%",
-    "uptimeMonth": "99.39%",
+    "uptimeDay": "81.93%",
+    "uptimeWeek": "97.42%",
+    "uptimeMonth": "99.41%",
     "uptimeYear": "99.93%",
     "time": 902,
     "timeDay": 861,
@@ -94,7 +94,7 @@
     "timeMonth": 820,
     "timeYear": 907,
     "dailyMinutesDown": {
-      "2022-05-24": 269,
+      "2022-05-24": 260,
       "2022-03-24": 109
     }
   },

@@ -10,8 +10,8 @@ sites:
   - name: Kundeninterface
     url: 'https://cp.triopsi-hosting.com'
     icon: https://assets.triopsi-hosting.com/images/logo/favicon-96x96.ico
-  - name: Webmail-01
-    url: 'https://webmail.triopsi-hosting.com'
+  #- name: Webmail-01
+   # url: 'https://webmail.triopsi-hosting.com'
   # - name: CLOUD01
   #   url: 'https://cloud01.triopsi-hosting.com'
   - name: Host-01
